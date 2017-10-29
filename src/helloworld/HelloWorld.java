@@ -36,7 +36,7 @@ public class HelloWorld extends Application {
         
         Scene scene = new Scene(root, 500, 250);
         
-        primaryStage.setTitle("Hello World!");
+        primaryStage.setTitle("Hello World and all!");
         primaryStage.setScene(scene);
         primaryStage.show();
     }
